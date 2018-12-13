@@ -1,0 +1,4 @@
+AuthName "Autorizacion requerida"
+AuthUserFile C:\xampp\htdocs\OnliShop\admin\.htpasswd
+AuthType Basic
+require user carlos usuario1
